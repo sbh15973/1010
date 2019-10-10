@@ -1,0 +1,10 @@
+!!
+2
+9
+c
+D
+Hello C WorlD!!!
+we are the worlD!!!
+1234567890
+abcdefghijklnmopqrstuvwxyz
+
